@@ -1,0 +1,3 @@
+[submodule "GeneratePhoto"]
+	path = GeneratePhoto
+	url = https://github.com/valikmed/PluginArchitecture.git

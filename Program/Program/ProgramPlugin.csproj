@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="PhotoSauce.MagicScaler" />
+    <None Remove="Program.Sdk" />
+    <None Remove="ProceedPlugin.Sdk" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProceedPlugin.Sdk\ProceedPlugin.Sdk.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="ProceedPlugin.Sdk">
+      <HintPath>..\ProceedPlugin.Sdk\bin\Debug\net6.0\ProceedPlugin.Sdk.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
