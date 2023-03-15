@@ -43,7 +43,7 @@ namespace ProgramApp
 
                 foreach (var pluginType in pluginTypes)
                 {
-                    //4 - Create an instans fro the executed type
+                    //4 - Create an instans for the executed type
                     var pluginInstance = Activator.CreateInstance(pluginType) as IPlugin;
 
                     pluginsLists.Add(pluginInstance);
