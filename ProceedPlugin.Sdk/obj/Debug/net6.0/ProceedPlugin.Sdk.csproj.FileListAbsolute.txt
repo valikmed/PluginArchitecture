@@ -1,0 +1,12 @@
+/Users/elysium/Projects/Program/ProceedPlugin.Sdk/bin/Debug/net6.0/ProceedPlugin.Sdk.deps.json
+/Users/elysium/Projects/Program/ProceedPlugin.Sdk/bin/Debug/net6.0/ProceedPlugin.Sdk.dll
+/Users/elysium/Projects/Program/ProceedPlugin.Sdk/bin/Debug/net6.0/ProceedPlugin.Sdk.pdb
+/Users/elysium/Projects/Program/ProceedPlugin.Sdk/obj/Debug/net6.0/ProceedPlugin.Sdk.csproj.AssemblyReference.cache
+/Users/elysium/Projects/Program/ProceedPlugin.Sdk/obj/Debug/net6.0/ProceedPlugin.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elysium/Projects/Program/ProceedPlugin.Sdk/obj/Debug/net6.0/ProceedPlugin.Sdk.AssemblyInfoInputs.cache
+/Users/elysium/Projects/Program/ProceedPlugin.Sdk/obj/Debug/net6.0/ProceedPlugin.Sdk.AssemblyInfo.cs
+/Users/elysium/Projects/Program/ProceedPlugin.Sdk/obj/Debug/net6.0/ProceedPlugin.Sdk.csproj.CoreCompileInputs.cache
+/Users/elysium/Projects/Program/ProceedPlugin.Sdk/obj/Debug/net6.0/ProceedPlugin.Sdk.dll
+/Users/elysium/Projects/Program/ProceedPlugin.Sdk/obj/Debug/net6.0/refint/ProceedPlugin.Sdk.dll
+/Users/elysium/Projects/Program/ProceedPlugin.Sdk/obj/Debug/net6.0/ProceedPlugin.Sdk.pdb
+/Users/elysium/Projects/Program/ProceedPlugin.Sdk/obj/Debug/net6.0/ref/ProceedPlugin.Sdk.dll
